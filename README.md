@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm a recent B.Sc. Computer Science graduate and a
 - Programming Languages: Java , C , C++ , Python ,
 - Frameworks and Libraries: Pycharm , Intellij , Android Studio , Visual Studio
 
-
+<!--
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalsadi&show_icons=true&theme=radical)
-
+-->
 ## Let's Connect
 
 - Find me on [LinkedIn](https://www.linkedin.com/in/faisal-saadi-518689202/)
