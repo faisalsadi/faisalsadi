@@ -12,14 +12,11 @@ Welcome to my GitHub profile! I'm a recent B.Sc. Computer Science graduate and a
 - 📫 How to reach me: fesalsadi@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/faisal-saadi-518689202/).
 - 😄 Pronouns: He/Him
 
-
-
 ## Skills
 
-- Programming Languages: [List of programming languages you are proficient in]
-- Frameworks and Libraries: [List of frameworks and libraries you have experience with]
-- Tools and Technologies: [List of tools and technologies you are familiar with]
-- ...
+- Programming Languages: Java , C , C++ , Python ,
+- Frameworks and Libraries: Pycharm , Intellij , Android Studio , Visual Studio
+
 
 ## GitHub Stats
 
