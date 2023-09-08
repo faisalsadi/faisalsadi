@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a recent B.Sc. Computer Science graduate and a
 ## Skills
 
 - Programming Languages: Java , C , C++ , Python .
-- Frameworks and Libraries: Pycharm , Intellij , Android Studio , Visual Studio , Postman .
 
 <!--
 ## GitHub Stats
